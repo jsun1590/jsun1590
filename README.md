@@ -1,6 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsun1590)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @jsun1590
-- 👀 I’m interested in automations
-- 🌱 I’m currently learning front end web dev (NextJS, TailwindCSS)
 - 📫 Reach me at jsun1590@gmail.com
 
 <!---
