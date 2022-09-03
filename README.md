@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsun1590)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsun1590&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @jsun1590
 - 📫 Reach me at jsun1590@gmail.com
